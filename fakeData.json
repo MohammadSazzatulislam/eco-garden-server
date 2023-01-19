@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "title": "Red Delicious Apple",
     "description": "Red Delicious is a type of apple with a red exterior and sweet taste that was first recognized in Madison County, Iowa, in 1872. Today, the name Red Delicious comprises more than 50 cultivars. From 1968 to 2018, it was the most produced cultivar in the United States",
     "img": "https://previews.123rf.com/images/happyalex/happyalex1309/happyalex130900095/22671838-apple-garden.jpg",
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": "2",
     "title": "Acid-less Orange",
     "description": " Lima oranges, botanically classified as Citrus sinensis, are an acidless variety growing on evergreen trees that can reach up to ten meters in height and belongs to the Rutaceae or citrus family.",
     "img": "https://live.staticflickr.com/5549/11721097603_9d171d0298_b.jpg",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "Red grapes",
     "description": "  Grapes contain powerful antioxidants known as polyphenols. These are thought to have anti-inflammatory and antioxidant properties. One of these is resveratrol.",
     "img": "https://img.freepik.com/free-photo/grapes-vineyards-plant-sunny-day_1398-5016.jpg?w=2000",
